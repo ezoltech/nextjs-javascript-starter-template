@@ -9,7 +9,7 @@ A **fully JavaScript** Next.js starter template with **Tailwind CSS**, clean res
 ## 🚀 Features
 
 - Fully JavaScript (no TypeScript required)
-- Built with **Next.js 13+ App Router**
+- Built with **Next.js 15+ App Router**
 - Responsive **Tailwind CSS** design
 - Hero section with animated background beams
 - Gradient text effects and modern UI components
@@ -24,6 +24,4 @@ A **fully JavaScript** Next.js starter template with **Tailwind CSS**, clean res
 
 ```bash
 git clone https://github.com/ezoltech/nextjs-javascript-starter-template
-
-```bash
 cd nextjs-javascript-starter-template
