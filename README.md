@@ -23,5 +23,7 @@ A **fully JavaScript** Next.js starter template with **Tailwind CSS**, clean res
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/nextjs-javascript-starter-template.git
+git clone https://github.com/ezoltech/nextjs-javascript-starter-template
+
+```bash
 cd nextjs-javascript-starter-template
