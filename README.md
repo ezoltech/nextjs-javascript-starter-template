@@ -2,7 +2,8 @@
 
 A **fully JavaScript** Next.js starter template with **Tailwind CSS**, clean responsive UI, and a modern background animation. Perfect for quickly bootstrapping your next web project with server-side rendering support.
 
-![Next.js JavaScript Starter](https://via.placeholder.com/800x300?text=Next.js+JavaScript+Starter)
+<img width="1534" height="794" alt="Screenshot 2025-09-05 134638" src="https://github.com/user-attachments/assets/c5ae77ae-ba36-41e8-a611-fe7285ff4700" />
+
 
 ---
 
@@ -25,3 +26,4 @@ A **fully JavaScript** Next.js starter template with **Tailwind CSS**, clean res
 ```bash
 git clone https://github.com/ezoltech/nextjs-javascript-starter-template
 cd nextjs-javascript-starter-template
+
